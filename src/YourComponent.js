@@ -8,10 +8,16 @@ export default class YourComponent extends Component {
 
   render() {
     return (
-      <div>
-		  <h1> Do your coding here!</h1>
+      <div style={divStyle}>
+		  <h1> Put your solution here!</h1>
       </div>
     );
   }
 }
 
+var divStyle = {
+  border: 'red',
+  borderWidth: 2,
+  borderStyle: 'solid',
+  padding: 20
+};
