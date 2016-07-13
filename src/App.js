@@ -29,7 +29,7 @@ export default class App extends Component {
 		  <p>Helpful tips:</p>
 		  <ul>
 		  	<li><i>Feel free to use our Google Maps API key: AIzaSyCVH8e45o3d-5qmykzdhGKd1-3xYua5D2A</i></li>
-		  	<li><i>The list of stores is located in file store_directory.xlsx. Tip: There many ways to turn excel into json. Here's a simple one: (https://shancarter.github.io/mr-data-converter/)</i></li>
+		  	<li><i>The list of stores is located in the file store_directory.json </i></li>
 		  	<li><i>Focus on the user, not the technology. A simple implementation that impresses the user is better than a super technical solution that impresses other developers.</i></li>
 		  	<li><i>That said, code that is easy to follow is always appreciated :)</i></li>
 		  </ul>
