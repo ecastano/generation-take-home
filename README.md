@@ -26,6 +26,8 @@ React is an important part of our stack and you'll be using it every day so it's
 that you're excited to learn it! If you don't know React and you're able to learn the basics
 in order to complete the exercise, we'll be impressed :)
 
+<a href="https://tylermcginnis.com/react-js-tutorial-pt-1-a-comprehensive-guide-to-building-apps-with-react-js-8ce321b125ba#.h5n3iisi4">Here's a great React tutorial</a>
+
 ### How do you start?
 
 Clone the repo on your computer
