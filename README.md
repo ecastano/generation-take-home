@@ -27,6 +27,7 @@ that you're excited to learn it! If you don't know React and you're able to lear
 in order to complete the exercise, we'll be impressed :)
 
 <a href="https://tylermcginnis.com/react-js-tutorial-pt-1-a-comprehensive-guide-to-building-apps-with-react-js-8ce321b125ba#.h5n3iisi4">Here's a great React tutorial</a>
+<a href="http://courses.reactjsprogram.com/courses/reactjsfundamentals">This one is also great.</a>
 
 ### How do you start?
 
