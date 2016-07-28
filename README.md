@@ -19,6 +19,12 @@ the effort you put into it.
 
 Any way you want - send us a zip, a link to your personal repo, etc. 
 
+### What if I don't know React? 
+
+Feel free to submit a solution that meets the requirements, but without using React.
+React is an important part of our stack and you'll be using it every day so it's important
+that you're excited to learn it! If you don't know React and you're able to learn the basics
+in order to complete the exercise, we'll be impressed :)
 
 ### How do you start?
 
